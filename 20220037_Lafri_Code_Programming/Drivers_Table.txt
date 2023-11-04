@@ -1,0 +1,9 @@
+==============================================================================================================
+Name                             Age     Team                             Car                    Points
+==============================================================================================================
+
+Sam                              27      Mitsubishi Motorsports           Mitsubishi Lancer      5    
+
+Jhonny                           32      Suzuki Motorsports               Suzuki Swift           10   
+
+Steve                            23      Subaru Motorsports               Subaru WRX STi         7    
